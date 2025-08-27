@@ -1,6 +1,6 @@
-# Sistem Otomatisasi DKPS LAMEMBA SBM ITB
+# DKPS
 
-Repositori ini berisi sistem otomatisasi input data DKPS LAMEMBA untuk semua program studi di SBM ITB.
+Repositori ini berisi sistem otomatisasi input data DKPS 
 
 ## Struktur Proyek
 
